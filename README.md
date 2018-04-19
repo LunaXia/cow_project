@@ -14,6 +14,25 @@ Different n size is provided in seperated files of "win_n", which n = 3, 6, 12.
 <br/>
 <br/>
 
+# Meaning of each entry of the original dataset
+ID : cow ID; 
+LACT: # times lactating; 
+Time_Born: time of delivery; 
+AdjTime: Ajusted Time; 
+N_CALVES: # babies; 
+NUM_DEAD: # dead babies;
+AGEFDAT: age of delivery (#days);
+CINT: (not needed);
+GEST: days of gestation;
+PDIM: days producing milk;
+DDRY: days no milk;
+:confused: PDOPN: NOT SURE; 
+PREFR: (not needed);
+PTOTF: (not needed) fat on milk;
+
+
+
+
 # Run<br/>
 1. Install pre-request<br/>
 Python 3.3+<br/>
